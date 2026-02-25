@@ -383,5 +383,3 @@ const styles = StyleSheet.create({
     fontWeight: "600",
   },
 });
-
-/* Header with hamburger menu */
