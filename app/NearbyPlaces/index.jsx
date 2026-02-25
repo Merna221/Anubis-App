@@ -351,3 +351,5 @@ const styles = StyleSheet.create({
     height: 20,
   },
 });
+
+/* Header with hamburger menu */
